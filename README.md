@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anushka250/Leetcode-Questions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0263-ugly-number) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/anushka250/Leetcode-Questions/tree/master/0089-gray-code) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
