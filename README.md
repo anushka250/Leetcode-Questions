@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka250/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/anushka250/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anushka250/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka250/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
