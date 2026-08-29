@@ -4,14 +4,12 @@ public:
 
         int n = s.size();
 
-        // Frequency of characters
         vector<int> freq(26, 0);
 
         for (char c : s) {
             freq[c - 'a']++;
         }
 
-        // Check if palindrome is possible
         int odd = 0;
         char midChar = '#';
 
@@ -25,7 +23,6 @@ public:
         if (odd > 1)
             return "";
 
-        // Characters available for the left half
         vector<int> half(26, 0);
 
         for (int i = 0; i < 26; i++) {
@@ -34,19 +31,9 @@ public:
 
         int m = n / 2;
 
-        /*
-            We try to construct the left half.
-
-            State:
-            - pos = current position
-            - greater = whether our prefix is already
-                        greater than target
-        */
 
         string left;
 
-        // First try to make a palindrome whose left half
-        // is exactly as small as possible while being > target.
         function<string(int, bool)> dfs =
             [&](int pos, bool greater) -> string {
 
@@ -74,15 +61,10 @@ public:
                     start = target[pos] - 'a';
 
                 for (int c = start; c < 26; c++) {
-
                     if (half[c] == 0)
                         continue;
-
-                    // If still equal to target, we cannot
-                    // choose a smaller character.
                     if (!greater && c < target[pos] - 'a')
                         continue;
-
                     half[c]--;
                     left += char('a' + c);
 
