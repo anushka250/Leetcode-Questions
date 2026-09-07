@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/anushka250/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [1927-sum-game](https://github.com/anushka250/Leetcode-Questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka250/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/anushka250/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka250/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anushka250/Leetcode-Questions/tree/master/0877-stone-game) |
