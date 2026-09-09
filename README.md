@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka250/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka250/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushka250/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka250/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anushka250/Leetcode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
