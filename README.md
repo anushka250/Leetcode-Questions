@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/anushka250/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anushka250/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/anushka250/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/anushka250/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushka250/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka250/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anushka250/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anushka250/Leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anushka250/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anushka250/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/anushka250/Leetcode-Questions/tree/master/1872-stone-game-viii) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/anushka250/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka250/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/anushka250/Leetcode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anushka250/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anushka250/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anushka250/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
