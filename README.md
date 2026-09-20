@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushka250/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/anushka250/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
@@ -386,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anushka250/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
