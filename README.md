@@ -443,5 +443,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/anushka250/Leetcode-Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/anushka250/Leetcode-Questions/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anushka250/Leetcode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
