@@ -439,5 +439,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/anushka250/Leetcode-Questions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anushka250/Leetcode-Questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1174-immediate-food-delivery-ii) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anushka250/Leetcode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
