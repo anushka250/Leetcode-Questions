@@ -436,4 +436,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1174-immediate-food-delivery-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1174-immediate-food-delivery-ii) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anushka250/Leetcode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
