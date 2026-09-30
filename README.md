@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushka250/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anushka250/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/anushka250/Leetcode-Questions/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/anushka250/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushka250/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anushka250/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/anushka250/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anushka250/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anushka250/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## String
