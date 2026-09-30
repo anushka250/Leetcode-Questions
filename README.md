@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/anushka250/Leetcode-Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/anushka250/Leetcode-Questions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anushka250/Leetcode-Questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1164-product-price-at-a-given-date](https://github.com/anushka250/Leetcode-Questions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1174-immediate-food-delivery-ii) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1789-primary-department-for-each-employee) |
