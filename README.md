@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/anushka250/Leetcode-Questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/anushka250/Leetcode-Questions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/anushka250/Leetcode-Questions/tree/master/1341-movie-rating) |
+| [1667-fix-names-in-a-table](https://github.com/anushka250/Leetcode-Questions/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/anushka250/Leetcode-Questions/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/anushka250/Leetcode-Questions/tree/master/1907-count-salary-categories) |
