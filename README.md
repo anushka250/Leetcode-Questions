@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka250/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anushka250/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anushka250/Leetcode-Questions/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anushka250/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anushka250/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushka250/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
