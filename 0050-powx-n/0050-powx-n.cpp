@@ -1,20 +1,24 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long bin = n;
-        double ans = 1.0;
-        if(bin < 0){
-            x = 1/x;
-            bin = -bin;
+        long long power = n;
+        long double base = x;
+        long double ans = 1.0;
+
+        if(power < 0) {
+            base = 1.0L / base;
+            power = -power;
         }
-        
-        while (bin > 0){
-            if(bin % 2 == 1){
-                ans *= x;
+
+        while(power > 0) {
+            if(power & 1) {
+                ans *= base;
             }
-            x *= x;
-            bin /= 2;
+
+            base *= base;
+            power >>= 1;
         }
-        return ans;
+
+        return (double)ans;
     }
 };
