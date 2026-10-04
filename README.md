@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anushka250/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anushka250/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushka250/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anushka250/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anushka250/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anushka250/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushka250/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushka250/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anushka250/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushka250/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/anushka250/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anushka250/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/anushka250/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushka250/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/anushka250/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anushka250/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
