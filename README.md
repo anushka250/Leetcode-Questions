@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anushka250/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0070-climbing-stairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anushka250/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
