@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anushka250/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/anushka250/Leetcode-Questions/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/anushka250/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anushka250/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/anushka250/Leetcode-Questions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushka250/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka250/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/anushka250/Leetcode-Questions/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/anushka250/Leetcode-Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/anushka250/Leetcode-Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
