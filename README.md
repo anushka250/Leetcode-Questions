@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anushka250/Leetcode-Questions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/anushka250/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka250/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/anushka250/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/anushka250/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/anushka250/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushka250/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anushka250/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
