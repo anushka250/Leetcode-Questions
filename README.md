@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anushka250/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/anushka250/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anushka250/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anushka250/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anushka250/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushka250/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
