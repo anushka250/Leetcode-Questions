@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/anushka250/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anushka250/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anushka250/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anushka250/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/anushka250/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anushka250/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka250/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
