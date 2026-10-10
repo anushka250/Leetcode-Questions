@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/anushka250/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0301-remove-invalid-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/anushka250/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anushka250/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/anushka250/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushka250/Leetcode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anushka250/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anushka250/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anushka250/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anushka250/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushka250/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anushka250/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
