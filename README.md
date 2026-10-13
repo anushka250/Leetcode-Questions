@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/anushka250/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/anushka250/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/anushka250/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anushka250/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anushka250/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka250/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushka250/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anushka250/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/anushka250/Leetcode-Questions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/anushka250/Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/anushka250/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anushka250/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anushka250/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anushka250/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/anushka250/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anushka250/Leetcode-Questions/tree/master/0567-permutation-in-string) |
@@ -579,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anushka250/Leetcode-Questions/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anushka250/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
